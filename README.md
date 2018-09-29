@@ -302,9 +302,7 @@ client.wallets(function (error, data) {
 });
 
 ```
-## API Reference
 
-https://strike.acinq.co/#/documentation/api-reference
 
 ## Contributors
 
