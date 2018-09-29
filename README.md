@@ -284,7 +284,54 @@ client.portfolio(type,function (error, data) {
 
 ```javasctipt
 [
-{"iso":"USDT","name":"Tether USDT","balance":6.7237},{"iso":"BTC","name":"Bitcoin","balance":0},{"iso":"BCH","name":"Bitcoin Cash","balance":0},{"iso":"XRP","name":"Ripple","balance":0},{"iso":"LTC","name":"Litecoin","balance":0},{"iso":"ZEC","name":"Zcash","balance":0},{"iso":"DASH","name":"Dash","balance":0},{"iso":"ETH","name":"Ethereum","digits":18,"balance":0.997093},{"iso":"ETC","name":"Ethereum Classic","digits":18,"balance":0},{"iso":"TRX","name":"Tron","digits":6,"balance":0},{"iso":"OMG","name":"OmiseGO","digits":18,"balance":0}
+  {
+  "iso":"USDT",
+  "name":"Tether USDT",
+  "balance":6.7237
+  },{
+  "iso":"BTC",
+  "name":"Bitcoin",
+  "balance":0
+  },{
+  "iso":"BCH",
+  "name":"Bitcoin Cash",
+  "balance":0
+  },{
+  "iso":"XRP",
+  "name":"Ripple",
+  "balance":0
+  },{
+  "iso":"LTC",
+  "name":"Litecoin",
+  "balance":0
+  },{
+  "iso":"ZEC",
+  "name":"Zcash",
+  "balance":0
+  },{
+  "iso":"DASH",
+  "name":"Dash",
+  "balance":0
+  },{
+  "iso":"ETH",
+  "name":"Ethereum",
+  "digits":18,
+  "balance":0.997093
+  },{
+  "iso":"ETC",
+  "name":"Ethereum Classic",
+  "digits":18,
+  "balance":0
+  },{
+  "iso":"TRX",
+  "name":"Tron",
+  "digits":6,
+  "balance":0
+  },{
+  "iso":"OMG",
+  "name":"OmiseGO",
+  "digits":18,
+  "balance":0}
 ]
 ```
 
